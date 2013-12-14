@@ -1,0 +1,826 @@
+<Selections><_MOD_>2013-08-27</_MOD_>
+<Name>Selections</Name>
+<Type>7426</Type>
+<Owndata>0</Owndata>
+<TID>100</TID>
+<Size>29</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Yeast><_MOD_>2013-08-26</_MOD_>
+<F_Y_NAME>Denny&#39;s Favorite</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>1450</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>4.2000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>60.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American Ambers, Browns, IPAs, Scotch Ale, Brown Porter, Cream Ale, Fruit Beer, Red Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>This terrific all-round yeast can be used for almost any beer style, and is a mainstay of one of our local homebrewers, Mr. Denny Conn. It is unique in that it produces a big mouthfeel and accentuates the malt, caramel, or fruit character of a beer without being sweet or under-attenuated. </F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-26</_MOD_>
+<F_Y_NAME>West Yorkshire Ale</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>1469</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>67.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>71.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>English IPA, Bitters, Stouts, Browns</F_Y_BEST_FOR>
+<F_Y_NOTES>This strain produces ales with a full chewy malt flavor and character, but finishes dry, producing famously balanced beers. Expect moderate nutty and stone-fruit esters. Best used for the production of cask-conditioned bitters, ESB and mild ales. Reliably flocculent, producing bright beer without filtration.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-26</_MOD_>
+<F_Y_NAME>Biere de Garde</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3725</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>79.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>84.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Biere de Garde, Saison, Belgian Blonde, Belgian Pale Ale, Belgian Golden Strong</F_Y_BEST_FOR>
+<F_Y_NOTES>Low to moderate ester production with subtle spiciness. Malty and full on the palate with initial sweetness. Finishes dry and slightly tart. Ferments well with no sluggishness.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-26</_MOD_>
+<F_Y_NAME>Belgian Dark Ale</F_Y_NAME>
+<F_Y_LAB>Wyeast Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>3822</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>79.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Strong Dark and Golden Ales, Belgian Quadrupel, Oud Bruin/Flanders Brown, Fruit Beers, Belgian Specialty Beers</F_Y_BEST_FOR>
+<F_Y_NOTES>This unique Belgian ale yeast is a high acid producer with balanced ester and phenol production allowing a good expression of malt profile, especially the strong flavors of darker malts and sugars. High alcohol tolerance. Spicy, tart, and dry on the palate with a very complex finish.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Scotch Whisky Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP045</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Scotch Whiskey Yeast</F_Y_BEST_FOR>
+<F_Y_NOTES>A strain that was widely used for Scotch Whisky production from the early 1950s, producing a complex array of ester compounds and fusel oils, as well as some spicy, clove character. Suitable for Scotch Whisky or American-style Whiskey. Used in high-gravity beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Tennessee Whisky Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP050</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>75.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>79.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American Whisky</F_Y_BEST_FOR>
+<F_Y_NOTES>Suitable for American-style whiskey and bourbon. This yeast is famous for creating rich, smooth flavors. Clean and dry fermenting yeast. Will tolerate high alcohol concentrations (15%), and ester production is low. Also popular in high-gravity beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>American Whisky Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP065</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>76.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>75.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Bourbon or American Whisky</F_Y_BEST_FOR>
+<F_Y_NOTES>Yeast strain that produces low ester profile and moderate fusel oils. Temperature and alcohol tolerant and suitable for American-style whiskey using barley or corn base. Also used in high-gravity beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Bourbon Whisky Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP070</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>72.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Bourbon Whisky</F_Y_BEST_FOR>
+<F_Y_NOTES>From a tradtional distillery in the heart of Bourbon country, this strain produces a carmel, malty character with balanced ester profile. Suitable for Bourbon or other American Whiskey with barley, rye, or corn as the base grain. Used in high-gravity beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>French Ale</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP072</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>63.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>73.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Biere de Garde, Blonde, Brown Ales and Specialty Beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Clean strain that complements malt flavor. Low to moderate esters, when fermentation temperature is below 70&deg;F.  Moderate plus ester character over 70&deg;F.  Low diacetyl production. Good yeast strain for Biere de Garde, blond, amber, brown ales, and specialty beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Old Sonoma</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP076</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>66.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American Ales, Porters, Stouts</F_Y_BEST_FOR>
+<F_Y_NOTES>Yeast from an historic brewery in Northern California, this strain was embraced by the early pioneers of craft beer in America and continues to be a great choice for those seeking to use a traditional British-style yeast. A neutral and versatile strain, it is a great choice for pale ales, porters, and stouts.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Neutral Grain Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP078</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>84.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>76.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>High gravity beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Marked by a clean, fast fermentation, this strain is ideal for any neutral grain spirit. Alcohol and temperature tolerant. Used in high-gravity beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>English Ale Blend</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP085</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>69.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>English Pale Ale, Stouts, Bitters, Porters and India Pale Ale</F_Y_BEST_FOR>
+<F_Y_NOTES>A blend of British ale yeast strains, designed to add complexity to your ale. Moderate fruitiness and mineral-like, with little to no sulfur. Drier than WLP002 and WLP005, but with similar flocculation properties. Good yeast blend for English Pale Ale, Bitter, Porter, Stout, and India Pale Ale.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>San Diego Super Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP090</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>76.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>83.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>A wide variety of styles requiring clean, fast fermentation and finish</F_Y_BEST_FOR>
+<F_Y_NOTES>A super clean, super-fast fermenting strain. A low ester-producing strain that results in a balanced, neutral flavor and aroma profile. Alcohol-tolerant and very versatile for a wide variety of styles. Similar to California Ale Yeast WLP001 but it generally ferments faster.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Belgian Saison III Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP585</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>75.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Saison, Summer Ales, Farmhouse Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Produces beer with a high fruit ester characteristic, as well as some slight tartness. Finishes slightly malty, which balances out the esters. Also produces low levels of clovey phenolics. Great yeast choice for a summer Saison that is light and easy-drinking.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Brettanomyces Bruxellensis Trois</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP644</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>85.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>90.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>85.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Sour beers, Belgian Sour Variations</F_Y_BEST_FOR>
+<F_Y_NOTES>This Belgian strain, used traditionally for 100% Brettanomyces fermentations, produces a slightly tart beer with delicate characteristics of mango and pineapple. Can also be used to produce effervescence when bottle-conditioning.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Flemish Ale Blend</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP665</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>80.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>68.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Flemish Ale, Sour Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Blended culture used to produce the classic beer styles of the West Flanders region of Belgium . A proprietary blend of Saccharomyces yeasts, Brettanomyces, Lactobacillus, and Pediococcus, this culture creates a more complex, dark stone fruit characteristic than WLP 655 Belgian Sour Mix</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>California Pinot Noir Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP707</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>80.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>80.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pinot Noir Wine Yeast</F_Y_BEST_FOR>
+<F_Y_NOTES>Isolated from Pinot Noir grapes by White Labs in Davis, CA. This strain produces fruity and complex aromas, and is an ideal choice for hardy red wine varieties, as well as aromatic white wines such as Chardonnay. This strain is reliable for difficult fermentations.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Sake #9 Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP709</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Sake and rice based wines</F_Y_BEST_FOR>
+<F_Y_NOTES>For use in rice-based fermentations. Traditional strain used in Ginjo-shu production because of the yeast&rsquo;s development of high fragrance components. Also a fairly strong fermenter, but producing a foamless fermentation.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Munich Helles Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP860</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>48.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>52.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>A variety of lager styles including Helles, Rauchbier and Munich Lagers</F_Y_BEST_FOR>
+<F_Y_NOTES>This yeast helps to produce a malty, but balanced traditional Munich-style lager. Clean and strong fermenter, it&#39;s great for a variety of lager styles ranging from Helles to Rauchbier.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Whitbread Ale Yeast</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP017</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>67.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>73.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>66.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>English style ales, milds, bitters, porters, and English ales as well as some North Amreican ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Traditional mixed yeast culture. British style character, slightly fruity, with a hint of sulfur production. This yeast can be used for many different beer styles. The most traditional choices would be English style ales including milds, bitters, porters, and English style stouts. North American style ales will also benefit from fermentation with WLP017. The beer will clear easily.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Bavarian Wheat Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M20</F_Y_PRODUCT_ID>
+<F_Y_TYPE>4</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Weizen, Witbier, Hefeweizen</F_Y_BEST_FOR>
+<F_Y_NOTES>A classic top-fermenting yeast suited for brewing a range of German Weizens as well as Belgian Witbier. It has a very low flocculation rate and a clean, &ldquo;yeasty&rdquo; aroma which makes it ideal for beers that are traditionally served cloudy. This yeast creates beer with a low to completely dry level of sweetness, medium body with a silky mouth feel, and a delicious banana and spice aroma.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>British Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M07</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>57.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wide variety of British Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>A neutral top-fermenting strain especially suited for brewing silky smooth light ales with a neutral yeast aroma and flavor contribution. This strain also works well for stronger ales where a soft and balanced mouth feel is desired and where the nutty, spicy and earthy hop and malt characteristics should be enhanced. This yeast strain is highly flocculent and not prone to autolysis, making it an excellent choice for both cask and bottle conditioned beer.  Low in esters for an English yeast.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>US West Coast Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>American ales, high alcohol beers</F_Y_BEST_FOR>
+<F_Y_NOTES>With the craft beer movement being lead by the USA, there has been a demand for a yeast strain which emphasizes the expressive flavors of the unique ingredients used.
+U.S. West Coast Yeast is a high attenuating, top-fermenting strain that ferments with almost completely neutral attributes across a wide range of wort strengths and temperature ranges. It produces a moderately high acidity which allows the tangy citrus hop aromas to really punch through, while also enhancing toasted and dark malt characters. If you plan to use a lot of expensive flavourful hops as the prominent feature of your beer, use this yeast.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Burton Union Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M79</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>66.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>70.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>English Beer Styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Famous the world over for its crisp, dry and uniquely malty and hoppy ales, this strain has been isolated and developed especially for the home and craft brewer from a commercial brewery in the heartland of British Brewing. Burton Union Yeast is a gentle but rapid fermenter that generates light and delicate ripe pear esters and does not strip away light malt character or body. Moderate acidity balances the silky smooth texture of beers fermented with this strain. When hops or malt aromas are stronger, the yeast contribution will be neutral. When used in lighter quality malt bases, the hops and esters are able to
+shine. Beers made with this yeast are quick to condition, giving you great beer in as little as 3 weeks.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Bohemian Lager Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M84</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>66.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>50.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>59.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>European lagers and Pilsner styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Bohemian Lager is a classic bottom-fermenting, continental lager strain that produces elegant, well balanced beers. Bohemian Lager Yeast is characterized by its dry and clean palate, typical of traditional Czech brewing. This strain confers smooth, subtle yeast characteristics with muted fruit notes, resulting in refreshingly crisp lagers with expressive hop character. While rich and chewy, the beers fermented with this strain will not be sweet, but may have an elusive sweet malt flavor in the aftertaste. Lagering periods as short as 4 weeks may produce acceptable beer, but allowing beer to lager 6-8 weeks will result in beer that is richer, smoother, with a more refined aroma and flavor.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Belgian Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M27</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>69.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>With a myriad of flavours and aromas embraced by master brewers all over Belgium, this strain has been specially developed to bring the best of these flavors to the home or craft brewer. Belgian ale yeast is an exceptional top-fermenting yeast strain creating distinctive beers with spicy, fruity and peppery notes. Ideal for fermentation of Belgian Saison or farmhouse style beers, but also suitable for other Belgian styles. This yeast is highly attenuative and has a high ethanol tolerance that makes it ideal for creating most Belgian beer styles, including Quadrupel styles of up to 14% ABV. At higher alcohol levels fermentation may take longer but the strain is robust enough to deal with almost anything. This strain successfully brings the sophistication of classic Belgian ale production to the home and small brewery.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Newcastle Dark Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M03</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>65.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Full bodied British Ale styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Newcastle Dark Ale Yeast successfully brings classic cask ale production into the homebrew or craft setting. This is a top-fermentation strain well suited for fermenting British ales, particularly dark and full bodied ales, mild brown ales and Scottish Heavy ales. Selected to not over attenuate, this strain will stop short of the low end gravities exhibited by other yeast strains. Dark fruity esters are pronounced when fermented at the appropriate temperature. Care should be taken to adjust hop bitterness to ensures it suits the ester character and complements the fuller bodied finish.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Workhorse Beer Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M10</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for many lagers and ales - including high gravity beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Workhorse Beer yeast is a true all rounder, suitable for a myriad of beer styles at extremely high gravities and different brewing temperatures. From Baltic porter to ambient temperature fermented lagers, this top-fermenting strain has such a clean
+flavor and aroma profile that it is suitable for almost every application. It is a robust strain with rapid and reliable fermentation performance, good attenuation properties, and ideally suited to making cask or bottle conditioned beers. This highly versatile strain also has very good ethanol tolerance up to 9% ABV and excellent temperature tolerance up to 90&deg;F (32&deg;C).</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2013-08-27</_MOD_>
+<F_Y_NAME>Cider Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M02</F_Y_PRODUCT_ID>
+<F_Y_TYPE>3</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>54.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>All cider types</F_Y_BEST_FOR>
+<F_Y_NOTES>Mangrove Jack&rsquo;s Cider Yeast is a high ester-producing strain, imparting wonderful flavor depth, revealing the full fruit potential of the juice. Ciders fermented using this strain are exceptionally crisp, flavorsome and refreshing in taste. This highly robust yeast has good fructose assimilation and is capable of fermenting under challenging conditions and over a wide temperature range. Mangrove Jack&rsquo;s Cider Yeast is a highly flocculent strain, suitable for all styles of cider. Trace nutrients have been blended with the yeast in Mangrove Jack&rsquo;s Cider Yeast sachets for optimum yeast health, fermentation performance and cider quality.</F_Y_NOTES>
+</Yeast>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>
