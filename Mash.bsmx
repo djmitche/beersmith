@@ -1,9 +1,10 @@
-<Mash><_MOD_>2013-11-24</_MOD_>
+<Mash><_MOD_>2014-01-02</_MOD_>
 <Name>Mash</Name>
 <Type>7434</Type>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7434</TID>
-<Size>28</Size>
+<Size>29</Size>
 <_XName>Mash</_XName>
 <Allocinc>16</Allocinc>
 <Data><Mash><_MOD_>2011-06-03</_MOD_>
@@ -26,6 +27,7 @@
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>4</Size>
@@ -135,6 +137,7 @@
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -225,6 +228,7 @@
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>5</Size>
@@ -355,6 +359,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>5</Size>
@@ -483,6 +488,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -573,6 +579,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -663,6 +670,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -754,6 +762,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>4</Size>
@@ -863,6 +872,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -914,7 +924,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MH_TUN_MASS>0.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </Mash>
-<Mash><_MOD_>2011-06-03</_MOD_>
+<Mash><_MOD_>2014-01-02</_MOD_>
 <F_MH_NAME>Single Infusion, Full Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>160.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -934,12 +944,13 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2003-03-31</_MOD_>
+<Data><MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>400.0000000</F_MS_INFUSION>
@@ -947,12 +958,12 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
-<F_MS_TUN_HC>0.0000000</F_MS_TUN_HC>
-<F_MS_TUN_VOL>0.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_HC>0.1200000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>640.0000000</F_MS_TUN_VOL>
 <F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
 <F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
-<F_MS_GRAIN_TEMP>0.0000000</F_MS_GRAIN_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>160.0000000</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>168.2394701</F_MS_INFUSION_TEMP>
@@ -986,6 +997,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1018,7 +1030,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MH_TUN_MASS>0.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </Mash>
-<Mash><_MOD_>2011-06-03</_MOD_>
+<Mash><_MOD_>2014-01-02</_MOD_>
 <F_MH_NAME>Single Infusion, Light Body, Batch Sparge</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>160.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -1038,12 +1050,13 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2003-03-31</_MOD_>
+<Data><MashStep><_MOD_>1969-12-31</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>400.0000000</F_MS_INFUSION>
@@ -1051,12 +1064,12 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MS_STEP_TIME>75.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>2.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
-<F_MS_TUN_HC>0.0000000</F_MS_TUN_HC>
-<F_MS_TUN_VOL>0.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_HC>0.1200000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>640.0000000</F_MS_TUN_VOL>
 <F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
 <F_MS_TUN_MASS>0.0000000</F_MS_TUN_MASS>
 <F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
-<F_MS_GRAIN_TEMP>0.0000000</F_MS_GRAIN_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
 <F_MS_START_VOL>0.0000000</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>160.0000000</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>159.0738063</F_MS_INFUSION_TEMP>
@@ -1090,6 +1103,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1142,6 +1156,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1213,6 +1228,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1265,6 +1281,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
@@ -1317,6 +1334,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1388,6 +1406,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1459,6 +1478,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1530,6 +1550,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -1620,6 +1641,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -1710,6 +1732,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>3</Size>
@@ -1800,6 +1823,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1871,6 +1895,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -1942,6 +1967,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -2013,6 +2039,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>5</Size>
@@ -2141,6 +2168,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>2</Size>
@@ -2212,6 +2240,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <steps><_MOD_>2011-02-26</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>4</Size>
@@ -2300,6 +2329,59 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MH_TUN_VOL>640.0000000</F_MH_TUN_VOL>
 <F_MH_TUN_MASS>0.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
+</Mash>
+<Mash><_MOD_>2014-01-02</_MOD_>
+<F_MH_NAME>Simple Single Infusion</F_MH_NAME>
+<F_MH_GRAIN_WEIGHT>160.0000000</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
+<F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
+<F_MH_TUN_TEMP>72.0000000</F_MH_TUN_TEMP>
+<F_MH_PH>5.2000000</F_MH_PH>
+<F_MH_SPARGE_TEMP>168.0000000</F_MH_SPARGE_TEMP>
+<F_MH_BATCH>1</F_MH_BATCH>
+<F_MH_BATCH_PCT>100.0000000</F_MH_BATCH_PCT>
+<F_MH_BATCH_EVEN>0</F_MH_BATCH_EVEN>
+<F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
+<F_MASH_39>1</F_MASH_39>
+<F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
+<F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
+<F_MH_BIAB>0</F_MH_BIAB>
+<F_MH_NOTES></F_MH_NOTES>
+<steps><_MOD_>1969-12-31</_MOD_>
+<Name>steps</Name>
+<Type>7432</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7149</TID>
+<Size>1</Size>
+<_XName>steps</_XName>
+<Allocinc>16</Allocinc>
+<Data><MashStep><_MOD_>1981-10-06</_MOD_>
+<F_MS_NAME>Mash</F_MS_NAME>
+<F_MS_TYPE>0</F_MS_TYPE>
+<F_MS_INFUSION>425.6000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>154.0000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>60.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>4.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>640.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>72.0000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>160.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>72.0000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>0.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>160.0000000</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>174.0946696</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+</Data>
+<_TExpanded>1</_TExpanded>
+</steps>
+<F_MH_EQUIP_ADJUST>1</F_MH_EQUIP_ADJUST>
+<F_MH_TUN_VOL>640.0000000</F_MH_TUN_VOL>
+<F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
+<F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </Mash>
 </Data>
 <_TExpanded>1</_TExpanded>

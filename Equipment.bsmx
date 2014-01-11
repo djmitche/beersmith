@@ -1,6 +1,7 @@
 <Equipment><_MOD_>2013-11-24</_MOD_>
 <Name>Equipment</Name>
 <Type>7430</Type>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7430</TID>
 <Size>13</Size>
@@ -294,7 +295,7 @@
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Popular 10 gallon setup for all grain brewing.  Uses a 10 gallon water cooler as mash tun for single infusion mashes and a 15 gallon brew pot for full size boil of the 12+ gallons of wort.</F_E_NOTES>
 </Equipment>
-<Equipment><_MOD_>2013-11-24</_MOD_>
+<Equipment><_MOD_>2014-01-02</_MOD_>
 <F_E_NAME>Outdoor Brewing</F_E_NAME>
 <F_E_MASH_VOL>1920.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>64.0000000</F_E_TUN_MASS>
@@ -303,12 +304,12 @@
 <F_E_TUN_DEADSPACE>32.0000000</F_E_TUN_DEADSPACE>
 <F_E_TUN_ADJ_DEADSPACE>1</F_E_TUN_ADJ_DEADSPACE>
 <F_E_CALC_BOIL>1</F_E_CALC_BOIL>
-<F_E_BOIL_VOL>761.6000000</F_E_BOIL_VOL>
+<F_E_BOIL_VOL>926.7200000</F_E_BOIL_VOL>
 <F_E_BOIL_TIME>60.0000000</F_E_BOIL_TIME>
 <F_E_OLD_EVAP_RATE>10.0000000</F_E_OLD_EVAP_RATE>
 <F_EQUIP_39>1</F_EQUIP_39>
-<F_E_BOIL_OFF>96.0000000</F_E_BOIL_OFF>
-<F_E_TRUB_LOSS>0.0000000</F_E_TRUB_LOSS>
+<F_E_BOIL_OFF>128.0000000</F_E_BOIL_OFF>
+<F_E_TRUB_LOSS>128.0000000</F_E_TRUB_LOSS>
 <F_E_COOL_PCT>4.0000000</F_E_COOL_PCT>
 <F_E_TOP_UP_KETTLE>0.0000000</F_E_TOP_UP_KETTLE>
 <F_E_BATCH_VOL>640.0000000</F_E_BATCH_VOL>
