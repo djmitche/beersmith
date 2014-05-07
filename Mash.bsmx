@@ -1,7 +1,7 @@
 <Mash><_MOD_>2014-01-02</_MOD_>
 <Name>Mash</Name>
 <Type>7434</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7434</TID>
 <Size>29</Size>
@@ -950,7 +950,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2014-03-15</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>400.0000000</F_MS_INFUSION>
@@ -1056,7 +1056,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2014-03-15</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>400.0000000</F_MS_INFUSION>
@@ -2347,7 +2347,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES></F_MH_NOTES>
-<steps><_MOD_>1969-12-31</_MOD_>
+<steps><_MOD_>2014-03-15</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
 <Dirty>1</Dirty>

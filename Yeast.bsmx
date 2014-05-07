@@ -1,10 +1,10 @@
-<Yeast><_MOD_>2013-12-14</_MOD_>
+<Yeast><_MOD_>2014-03-30</_MOD_>
 <Name>Yeast</Name>
 <Type>7426</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7426</TID>
-<Size>202</Size>
+<Size>205</Size>
 <_XName>Yeast</_XName>
 <Allocinc>16</Allocinc>
 <Data><Yeast><_MOD_>2011-03-06</_MOD_>
@@ -847,7 +847,7 @@
 <F_Y_BEST_FOR>Saison Ale, Belgian Ale, Dubbel, Trippel</F_Y_BEST_FOR>
 <F_Y_NOTES>Saison yeast from Wallonia.  Earthy, spicy and peppery notes.  Slightly sweet.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2013-12-14</_MOD_>
+<Yeast><_MOD_>2014-01-18</_MOD_>
 <F_Y_NAME>Belgian Strong Ale</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1388</F_Y_PRODUCT_ID>
@@ -856,7 +856,7 @@
 <F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>4.2000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -1127,7 +1127,7 @@
 <F_Y_BEST_FOR>Belgian Lambic beers</F_Y_BEST_FOR>
 <F_Y_NOTES>Wild yeast strain associated with Belgian breweries.  Contributes horsey, old leather flavor complex to Belgian lambics.  Slow growing yeast that takes weeks to ferment and months to develop fully.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2013-12-14</_MOD_>
+<Yeast><_MOD_>2014-01-18</_MOD_>
 <F_Y_NAME>British Ale - Propagated</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP005</F_Y_PRODUCT_ID>
@@ -1136,7 +1136,7 @@
 <F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>1.2000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -1436,7 +1436,7 @@ Produces nice malt profile with a hint of fruit. Finishes dry and slightly tart.
 <F_Y_BEST_FOR>All English styles including Pale Ale, IPA, Porter, Stout and Bitters.</F_Y_BEST_FOR>
 <F_Y_NOTES>Burton-on-trent yeast produces a complex character.  Flavors include apple, pear, and clover honey.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2011-03-06</_MOD_>
+<Yeast><_MOD_>2014-03-23</_MOD_>
 <F_Y_NAME>California Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP001</F_Y_PRODUCT_ID>
@@ -1521,7 +1521,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>California Common Beer, American or Robust porters</F_Y_BEST_FOR>
 <F_Y_NOTES>Use for California Common Beers (aka Steam Beer).  Leaves a slightly estery, well attenuated finish.  Quite distinct in flavor.  Can also be used for complex porters.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2003-04-04</_MOD_>
+<Yeast><_MOD_>2014-03-29</_MOD_>
 <F_Y_NAME>California Lager</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>2112</F_Y_PRODUCT_ID>
@@ -3686,7 +3686,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>2.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -4125,7 +4125,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>British Bitters, ESB, India Pale Ale, English Strong Ale</F_Y_BEST_FOR>
 <F_Y_NOTES>Clean, complex flavor.  Low in fruit, low in esters, rich in flavor.  Hops come through well.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2013-12-29</_MOD_>
+<Yeast><_MOD_>2014-01-18</_MOD_>
 <F_Y_NAME>Trappist Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP500</F_Y_PRODUCT_ID>
@@ -4134,12 +4134,12 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>1.2000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>32.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
 <F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
-<F_Y_PKG_DATE>2014-02-28</F_Y_PKG_DATE>
+<F_Y_PKG_DATE>2013-12-16</F_Y_PKG_DATE>
 <F_Y_CELLS>100.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
 <F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
@@ -4209,7 +4209,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>Bohemian Pilsner</F_Y_BEST_FOR>
 <F_Y_NOTES>Pilsner Urquell yeast with mild fruit/floral aroma.  Very dry and clean on palate with full mouth feel.  Subtle malt character.  Clean and neutral finish.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2003-04-04</_MOD_>
+<Yeast><_MOD_>2014-01-18</_MOD_>
 <F_Y_NAME>Weihenstephan Weizen</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3068</F_Y_PRODUCT_ID>
@@ -4218,12 +4218,12 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>4.2000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
 <F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
-<F_Y_PKG_DATE>2011-02-27</F_Y_PKG_DATE>
+<F_Y_PKG_DATE>2013-05-30</F_Y_PKG_DATE>
 <F_Y_CELLS>100.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
 <F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
@@ -5666,6 +5666,90 @@ Alcohol Tolerance: 16%</F_Y_NOTES>
 <F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
 <F_Y_BEST_FOR>Excellent for all English style ales including bitters, pale ale, porters and brown ale.</F_Y_BEST_FOR>
 <F_Y_NOTES>This yeast has higher attenuation than the White Labs English Ale yeast strains.  Produces a malty flavored beer.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2014-01-18</_MOD_>
+<F_Y_NAME>Trappist Ale - Propagated</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP500*</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.2000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2014-01-04</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Trappist Ale, Dubbel, Trippel, Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Distinctive fruitiness and plum characteristics.  Excellent for high gravity beers.</F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2014-01-18</_MOD_>
+<F_Y_NAME>Belle Saison</F_Y_NAME>
+<F_Y_LAB>Lallemand</F_Y_LAB>
+<F_Y_PRODUCT_ID></F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>3.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2014-01-18</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-09-18</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>63.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>69.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2014-01-18</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR></F_Y_BEST_FOR>
+<F_Y_NOTES></F_Y_NOTES>
+</Yeast>
+<Yeast><_MOD_>2014-03-30</_MOD_>
+<F_Y_NAME>Dry English Ale - 2/24/2014</F_Y_NAME>
+<F_Y_LAB>White Labs</F_Y_LAB>
+<F_Y_PRODUCT_ID>WLP007</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>0</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>1.2000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_PRICE>6.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2011-02-27</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2014-02-24</F_Y_PKG_DATE>
+<F_Y_CELLS>100.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>65.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>70.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2003-06-14</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Pale Ales, Amber, ESB, Brown Ales, Strong Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>Clean, Highly flocculant, and highly attentive yeast.  Similar to White labs English Ale yeast, but more attentive.  Suitable for high gravity ales.</F_Y_NOTES>
 </Yeast>
 </Data>
 <_TExpanded>1</_TExpanded>

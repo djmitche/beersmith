@@ -1,6 +1,7 @@
 <Tools><_MOD_>2010-12-24</_MOD_>
 <Name>Tools</Name>
 <Type>7380</Type>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>7380</TID>
 <Size>20</Size>
@@ -16,9 +17,9 @@
 <F_WV_EMPTY_WEIGHT>80.0000000</F_WV_EMPTY_WEIGHT>
 <F_WV_GRAVITY>1.0100000</F_WV_GRAVITY>
 </Tool.WeightVol>
-<Tool.Infusion><_MOD_>2013-11-24</_MOD_>
+<Tool.Infusion><_MOD_>2014-03-23</_MOD_>
 <Calc>0</Calc>
-<F_SI_STEP_TEMP>113.0000000</F_SI_STEP_TEMP>
+<F_SI_STEP_TEMP>154.0000000</F_SI_STEP_TEMP>
 <F_SI_ADD_VOL>192.0000000</F_SI_ADD_VOL>
 <F_SI_START_VOL>0.0000000</F_SI_START_VOL>
 <F_SI_GRAIN_WT>200.0000000</F_SI_GRAIN_WT>
@@ -31,11 +32,11 @@
 <F_CAR_TEMP>40.0000000</F_CAR_TEMP>
 <F_CAR_VOLUME>640.0000000</F_CAR_VOLUME>
 </Tool.Carbonation>
-<Tool.Temperature><_MOD_>2011-05-19</_MOD_>
-<F_T_FAHRENHEIT>152.0060000</F_T_FAHRENHEIT>
+<Tool.Temperature><_MOD_>2014-05-06</_MOD_>
+<F_T_FAHRENHEIT>153.8600000</F_T_FAHRENHEIT>
 </Tool.Temperature>
-<Tool.SpecificGravity><_MOD_>2013-12-14</_MOD_>
-<F_SG_SG>1.1021277</F_SG_SG>
+<Tool.SpecificGravity><_MOD_>2014-05-06</_MOD_>
+<F_SG_SG>1.0399936</F_SG_SG>
 </Tool.SpecificGravity>
 <Tool.Pressure><_MOD_>2010-12-24</_MOD_>
 <F_P_PSI>12.0500000</F_P_PSI>
@@ -115,6 +116,7 @@
 <Hops><_MOD_>2010-12-24</_MOD_>
 <Name>Hops</Name>
 <Type>7405</Type>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>7733</TID>
 <Size>0</Size>

@@ -1,9 +1,10 @@
-<DefRecipe><_MOD_>1969-12-31</_MOD_>
+<DefRecipe><_MOD_>2014-05-06</_MOD_>
 <F_R_NAME>Untitled Recipe</F_R_NAME>
 <F_R_BREWER></F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2011-06-01</F_R_DATE>
 <F_R_INV_DATE>1990-06-01</F_R_INV_DATE>
+<F_R_FOLDER_NAME></F_R_FOLDER_NAME>
 <F_R_VOLUME_MEASURED>640.0000000</F_R_VOLUME_MEASURED>
 <F_R_FINAL_VOL_MEASURED>640.0000000</F_R_FINAL_VOL_MEASURED>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
@@ -13,7 +14,7 @@
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>1969-12-31</_MOD_>
+<F_R_EQUIPMENT><_MOD_>1970-01-01</_MOD_>
 <F_E_NAME>Pot ( 3 Gal/11.4 L) - Extract</F_E_NAME>
 <F_E_MASH_VOL>384.0000000</F_E_MASH_VOL>
 <F_E_TUN_MASS>48.0000000</F_E_TUN_MASS>
@@ -37,7 +38,7 @@
 <F_E_HOP_UTIL>100.0000000</F_E_HOP_UTIL>
 <F_E_NOTES>Simple Brew Pot with a 3 Gallon Capacity - leaving a workable boil volume of around 2.5 gal.  Used for extract or partial mash brewing.</F_E_NOTES>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>1995-03-23</_MOD_>
+<F_R_STYLE><_MOD_>1969-12-31</_MOD_>
 <F_S_NAME>American Amber Ale</F_S_NAME>
 <F_S_CATEGORY>American Pale Ale</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 1999</F_S_GUIDE>
@@ -62,7 +63,7 @@
 <F_S_EXAMPLES>North Coast Red Seal Ale, Fat Tire Amber Ale, Full Sail Amber Ale</F_S_EXAMPLES>
 <F_S_WEB_LINK></F_S_WEB_LINK>
 </F_R_STYLE>
-<F_R_MASH><_MOD_>1969-12-31</_MOD_>
+<F_R_MASH><_MOD_>2014-05-06</_MOD_>
 <F_MH_NAME>Single Infusion, Light Body, No Mash Out</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>160.0000000</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>72.0000000</F_MH_GRAIN_TEMP>
@@ -79,15 +80,16 @@
 <F_MH_BIAB_VOL>640.0000000</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
 <F_MH_NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</F_MH_NOTES>
-<steps><_MOD_>2013-12-14</_MOD_>
+<steps><_MOD_>2014-05-06</_MOD_>
 <Name>steps</Name>
 <Type>7432</Type>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7149</TID>
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2014-05-06</_MOD_>
 <F_MS_NAME>Mash In</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>400.0000000</F_MS_INFUSION>
@@ -114,7 +116,7 @@
 <F_MH_TUN_MASS>48.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>2013-12-14</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2035-03-12</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -126,6 +128,7 @@
 <F_G_YIELD>75.0000000</F_G_YIELD>
 <F_G_LATE_EXTRACT>0.0000000</F_G_LATE_EXTRACT>
 <F_G_PERCENT>0.0000000</F_G_PERCENT>
+<F_G_NOT_FERMENTABLE>0</F_G_NOT_FERMENTABLE>
 <F_ORDER>0</F_ORDER>
 <F_G_COARSE_FINE_DIFF>1.5000000</F_G_COARSE_FINE_DIFF>
 <F_G_MOISTURE>4.0000000</F_G_MOISTURE>
@@ -140,7 +143,7 @@
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </F_R_BASE_GRAIN>
-<F_R_CARB><_MOD_>1970-01-01</_MOD_>
+<F_R_CARB><_MOD_>2014-05-06</_MOD_>
 <F_C_NAME>Corn Sugar</F_C_NAME>
 <F_C_TEMPERATURE>70.0000000</F_C_TEMPERATURE>
 <F_C_TYPE>0</F_C_TYPE>
@@ -148,7 +151,7 @@
 <F_C_CARB_RATE>100.0000000</F_C_CARB_RATE>
 <F_C_NOTES>Use corn sugar for priming the beer</F_C_NOTES>
 </F_R_CARB>
-<F_R_AGE><_MOD_>1969-12-31</_MOD_>
+<F_R_AGE><_MOD_>2014-05-06</_MOD_>
 <F_A_NAME>Ale, Two Stage</F_A_NAME>
 <F_A_PRIM_TEMP>67.0000000</F_A_PRIM_TEMP>
 <F_A_PRIM_END_TEMP>67.0000000</F_A_PRIM_END_TEMP>
@@ -166,9 +169,10 @@
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>2013-12-14</_MOD_>
+<Ingredients><_MOD_>1982-04-03</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
+<Dirty>0</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
 <Size>0</Size>
