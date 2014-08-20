@@ -1,10 +1,10 @@
-<Age><_MOD_>2011-05-15</_MOD_>
+<Age><_MOD_>2014-07-13</_MOD_>
 <Name>Age</Name>
 <Type>7482</Type>
 <Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7482</TID>
-<Size>8</Size>
+<Size>9</Size>
 <_XName>Age</_XName>
 <Allocinc>16</Allocinc>
 <Data><Age><_MOD_>2011-06-06</_MOD_>
@@ -150,6 +150,24 @@
 <F_A_AGE>24.0000000</F_A_AGE>
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES>Two stage fermentation for steam beer - which is done with lager yeast at ale fermentation temperatures.</F_A_NOTES>
+</Age>
+<Age><_MOD_>2014-07-13</_MOD_>
+<F_A_NAME>Saison / 3724</F_A_NAME>
+<F_A_PRIM_TEMP>89.6000000</F_A_PRIM_TEMP>
+<F_A_PRIM_END_TEMP>89.6000000</F_A_PRIM_END_TEMP>
+<F_A_SEC_TEMP>75.2000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>89.6000000</F_A_SEC_END_TEMP>
+<F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
+<F_A_AGE_TEMP>73.4000000</F_A_AGE_TEMP>
+<F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
+<F_A_END_AGE_TEMP>73.4000000</F_A_END_AGE_TEMP>
+<F_A_END_TEMPS_SET>0</F_A_END_TEMPS_SET>
+<F_A_PRIM_DAYS>21.0000000</F_A_PRIM_DAYS>
+<F_A_SEC_DAYS>14.0000000</F_A_SEC_DAYS>
+<F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
+<F_A_AGE>14.0000000</F_A_AGE>
+<F_A_TYPE>0</F_A_TYPE>
+<F_A_NOTES></F_A_NOTES>
 </Age>
 </Data>
 <_TExpanded>1</_TExpanded>
