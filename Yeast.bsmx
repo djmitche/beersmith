@@ -3649,7 +3649,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>Ringwood Ale, Brown Ales</F_Y_BEST_FOR>
 <F_Y_NOTES>European ale yeast.  Highly flocculant with complex, clear, but malty profile.  Slightly fruity ester.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-07-27</_MOD_>
+<Yeast><_MOD_>2015-01-04</_MOD_>
 <F_Y_NAME>Roselare Belgian Blend</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3763</F_Y_PRODUCT_ID>
@@ -3658,7 +3658,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>4.2000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -3677,7 +3677,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>Belgian sour brown and red beers.</F_Y_BEST_FOR>
 <F_Y_NOTES>Culture of Saccharomyces, Brettonomyces and Lactic Acid Bacteria.  Complex aromas and flavors.  May be used for primary fermentation.  Primarily for sour brown and red Belgian styles.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-05-28</_MOD_>
+<Yeast><_MOD_>2014-10-25</_MOD_>
 <F_Y_NAME>SafAle English Ale</F_Y_NAME>
 <F_Y_LAB>DCL/Fermentis</F_Y_LAB>
 <F_Y_PRODUCT_ID>S-04</F_Y_PRODUCT_ID>
@@ -3686,7 +3686,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>0.8000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>3.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -4125,7 +4125,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>British Bitters, ESB, India Pale Ale, English Strong Ale</F_Y_BEST_FOR>
 <F_Y_NOTES>Clean, complex flavor.  Low in fruit, low in esters, rich in flavor.  Hops come through well.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-07-27</_MOD_>
+<Yeast><_MOD_>2014-10-25</_MOD_>
 <F_Y_NAME>Trappist Ale</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP500</F_Y_PRODUCT_ID>
@@ -4209,7 +4209,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>Bohemian Pilsner</F_Y_BEST_FOR>
 <F_Y_NOTES>Pilsner Urquell yeast with mild fruit/floral aroma.  Very dry and clean on palate with full mouth feel.  Subtle malt character.  Clean and neutral finish.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-07-27</_MOD_>
+<Yeast><_MOD_>2014-10-25</_MOD_>
 <F_Y_NAME>Weihenstephan Weizen</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>3068</F_Y_PRODUCT_ID>
@@ -4218,7 +4218,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>4.2000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -4825,7 +4825,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_BEST_FOR>Sour ales (in secondary)</F_Y_BEST_FOR>
 <F_Y_NOTES>Low intensity Brett character. Originally isolated from strong English stock beer, in the early 20th century. The Brett flavors produced are more subtle than WLP650 and WLP653. More aroma than flavor contribution. Fruity, pineapple like aroma.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-07-27</_MOD_>
+<Yeast><_MOD_>2014-10-25</_MOD_>
 <F_Y_NAME>Brettanomyces Lambicus</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP653</F_Y_PRODUCT_ID>
@@ -4834,7 +4834,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -5555,7 +5555,7 @@ Alcohol Tolerance: 16%</F_Y_NOTES>
 <F_Y_BEST_FOR>Wheat beers</F_Y_BEST_FOR>
 <F_Y_NOTES>Danstar Munich Wheat Beer yeast originated in Bavaria, Germany, the home of many of the world&rsquo;s great wheat beer breweries.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-05-28</_MOD_>
+<Yeast><_MOD_>2015-01-04</_MOD_>
 <F_Y_NAME>Safale American </F_Y_NAME>
 <F_Y_LAB>DCL/Fermentis</F_Y_LAB>
 <F_Y_PRODUCT_ID>US-05</F_Y_PRODUCT_ID>
@@ -5564,7 +5564,7 @@ Alcohol Tolerance: 16%</F_Y_NOTES>
 <F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>1.7000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>3.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>2.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>6.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
@@ -5751,7 +5751,7 @@ Alcohol Tolerance: 16%</F_Y_NOTES>
 <F_Y_BEST_FOR>Pale Ales, Amber, ESB, Brown Ales, Strong Ales</F_Y_BEST_FOR>
 <F_Y_NOTES>Clean, Highly flocculant, and highly attentive yeast.  Similar to White labs English Ale yeast, but more attentive.  Suitable for high gravity ales.</F_Y_NOTES>
 </Yeast>
-<Yeast><_MOD_>2014-07-27</_MOD_>
+<Yeast><_MOD_>2014-10-25</_MOD_>
 <F_Y_NAME>Best of Both Worlds</F_Y_NAME>
 <F_Y_LAB>White Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>WLP200</F_Y_PRODUCT_ID>
@@ -5760,7 +5760,7 @@ Alcohol Tolerance: 16%</F_Y_NOTES>
 <F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
 <F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
 <F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
-<F_Y_INVENTORY>1.0000000</F_Y_INVENTORY>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_PRICE>0.0000000</F_Y_PRICE>
 <F_ORDER>0</F_ORDER>
 <F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>

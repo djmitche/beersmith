@@ -1484,7 +1484,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1969-12-31</_MOD_>
+<Data><MashStep><_MOD_>2014-08-24</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>400.0000000</F_MS_INFUSION>
@@ -1503,7 +1503,7 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MS_INFUSION_TEMP>163.6566382</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1969-12-31</_MOD_>
+<MashStep><_MOD_>2014-08-24</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
