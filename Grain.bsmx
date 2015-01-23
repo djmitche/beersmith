@@ -1,7 +1,7 @@
 <Grain><_MOD_>2014-09-26</_MOD_>
 <Name>Grain</Name>
 <Type>7406</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7406</TID>
 <Size>116</Size>
@@ -2119,13 +2119,13 @@ Can be used as a substitute for toasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caramel/Crystal Malt - 30L</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2014-10-25</_MOD_>
+<Grain><_MOD_>2015-01-10</_MOD_>
 <F_G_NAME>Victory Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_INVENTORY>4.0000000</F_G_INVENTORY>
 <F_G_AMOUNT>0.0000000</F_G_AMOUNT>
 <F_G_COLOR>25.0000000</F_G_COLOR>
 <F_G_YIELD>73.0000000</F_G_YIELD>

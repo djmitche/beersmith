@@ -1,7 +1,7 @@
 <Hops><_MOD_>2014-06-22</_MOD_>
 <Name>Hops</Name>
 <Type>7403</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7403</TID>
 <Size>118</Size>
@@ -1367,7 +1367,7 @@ Substitutes: Chinook, Hallertauer Mittelfrueh</F_H_NOTES>
 <F_H_ALPHA>7.1000000</F_H_ALPHA>
 <F_H_BETA>7.0000000</F_H_BETA>
 <F_H_PERCENT>0.0000000</F_H_PERCENT>
-<F_H_INVENTORY>3.0000000</F_H_INVENTORY>
+<F_H_INVENTORY>2.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.0000000</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
 <F_H_BOIL_TIME>0.0000000</F_H_BOIL_TIME>
@@ -2542,10 +2542,10 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>0</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2014-05-06</_MOD_>
-<F_H_NAME>Mandariva - 5/1/2014 from Aaron</F_H_NAME>
+<Hops><_MOD_>2015-01-10</_MOD_>
+<F_H_NAME>Mandarina - 5/1/2014 from Aaron</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
-<F_H_TYPE>2</F_H_TYPE>
+<F_H_TYPE>1</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>7.2000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
